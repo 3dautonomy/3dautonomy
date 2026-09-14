@@ -118,7 +118,7 @@ Autonomous Organizations
 
 - Website: https://3dautonomy.ai
 - LinkedIn: https://linkedin.com/company/3dautonomy
-- Email: hello@3dautonomy.ai
+- Email: 3dautonomy@gmail.com
 
 ---
 
