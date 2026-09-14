@@ -1,16 +1,125 @@
-## Hi there 👋
+# 3D Autonomy
 
-<!--
-**3dautonomy/3dautonomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> From Automation to Autonomy
 
-Here are some ideas to get you started:
+![Hero](assets/hero-banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Discover • Decide • Deliver
+
+Building the Business AI Operating System for autonomous organizations.
+
+---
+
+## Vision
+
+Create intelligent organizations that continuously learn, adapt, and execute.
+
+---
+
+## What is Business AI OS?
+
+A unified intelligence layer connecting:
+
+- People
+- Processes
+- Data
+- Applications
+- Automation
+- AI Agents
+
+into one evolving ecosystem.
+
+---
+
+## Core Services
+
+### AI Transformation
+
+Transform businesses from manual operations into autonomous systems.
+
+### Business Automation
+
+Automate workflows and repetitive tasks.
+
+### AI Agents
+
+- HR Agent
+- Finance Agent
+- Operations Agent
+- Compliance Agent
+- Executive Agent
+
+### ERP & HRMS
+
+Enterprise systems powered by AI.
+
+### Industry Solutions
+
+- Manufacturing
+- Construction
+- Hospitality
+- Retail
+- Education
+
+---
+
+## Business Evolution
+
+Manual → Digital → Automated → AI Assisted → Autonomous
+
+---
+
+## Technology
+
+- Artificial Intelligence
+- ERP
+- HRMS
+- CRM
+- Analytics
+- Automation
+- Knowledge Systems
+- AI Agents
+
+---
+
+## Architecture
+
+![Architecture](assets/architecture.png)
+
+---
+
+## Business Command Center
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+## Roadmap
+
+### Phase 1
+
+Business Automation
+
+### Phase 2
+
+AI Agents
+
+### Phase 3
+
+Business AI OS
+
+### Phase 4
+
+Autonomous Organizations
+
+---
+
+## Connect
+
+- Website: https://3dautonomy.ai
+- LinkedIn: https://linkedin.com/company/3dautonomy
+- Email: hello@3dautonomy.ai
+
+---
+
+# Discover. Decide. Deliver.
